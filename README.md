@@ -45,6 +45,9 @@ This tool helps you identify **open or closed ports** on a target IP address or 
 - Unauthorized port scanning may be considered **illegal or intrusive** in many jurisdictions. Know your local laws before using.
 
    Use responsibly. Hack the planet — but only with permission. 🌍🔒
+
+##  ❤️ Support
+   If you like this project, consider giving it a ⭐ on GitHub!
    
 
 
