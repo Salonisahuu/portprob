@@ -19,8 +19,9 @@ This tool helps you identify **open or closed ports** on a target IP address or 
 
 ## How to install 
     git clone https://github.com/Salonisahuu/portprob.git
-    ls
     cd portprob
+    ls
+    pip install -r requirements.txt
     ls
     python3 port.py
 ## out put and result 
