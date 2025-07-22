@@ -1,0 +1,8 @@
+# External module
+colorama>=0.4.6
+
+# --------------------------
+# Standard library modules (no installation needed, just for reference)
+# socket               - for network communication
+# concurrent.futures   - for multithreading
+# builtins (input, print, etc.)
